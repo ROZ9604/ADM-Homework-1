@@ -1,14 +1,13 @@
 # ADM — Homework 1
 
-**Algorithmic Methods of Data Mining**  
-Sapienza University of Rome  
+**Algorithmic Methods of Data Mining**    
 Academic Year 2026/2027
 
-## Overview
+##############################################
 
-This repository contains my Python solutions for Homework 1 of Algorithmic Methods of Data Mining. The exercises are based on the programming challenges assigned on HackerRank.
+This repository contains my Python solutions for Homework 1 of Algorithmic Methods of Data Mining. The exercises are based on the HackerRank challenges.
 
-## Repository Structure
+## Structure
 
 - `scripts.py` — Python solutions organized by challenge category, with a runner to execute individual challenges.
 - `printouts/` — PDF printout of HackerRank submissions and related evidence.
@@ -29,5 +28,5 @@ python scripts.py
 
 ## Disclosure
 
-The HackerRank Editorial for the **Tuples** challenge was consulted. It confirmed the standard tuple/hash approach but did not resolve the runtime hash mismatch. The challenge's acceptance status is not claimed here.
+The HackerRank Editorial for the Tuples challenge was used.
 
