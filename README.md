@@ -3,7 +3,6 @@
 **Algorithmic Methods of Data Mining**  
 Academic Year 2026/2027
 
----
 
 This repository contains my Python solutions for the HackerRank challenges I attempted for Homework 1 of Algorithmic Methods of Data Mining.
 
