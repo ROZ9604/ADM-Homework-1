@@ -480,4 +480,4 @@ if __name__ == "__main__":
         print("Run `python scripts.py` to see the available keys.")
         sys.exit(1)
 
-  CHALLENGES[challenge_key]()
+    CHALLENGES[challenge_key]()
